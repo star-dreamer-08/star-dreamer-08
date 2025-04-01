@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @star-dreamer-08
-- 👀 I’m interested in learning python -- studying CS in post-sec
+- 👀 I’m interested in learning python and coding in my free time
 - 🌱 I’m currently learning web-dev on freecodecamp and python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
